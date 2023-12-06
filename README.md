@@ -1,8 +1,8 @@
 Custom Stopwatch in SwiftUI
 
 
+![Simulator Screenshot - iPhone 15 Plus - 2023-12-07 at 02 54 05](https://github.com/Nagaraju0323/Stopwatch-app/assets/97865302/e6b5776e-0883-4263-94aa-c7b2517ecda0)
 
-![Uploading Simulator Screenshot - iPhone 15 Plus - 2023-12-07 at 02.54.05.png…]()
 
 
 
