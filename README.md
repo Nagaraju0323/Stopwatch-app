@@ -1,5 +1,15 @@
 Custom Stopwatch in SwiftUI
 
+
+
+
+![Simulator Screenshot - iPhone 15 Plus - 2023-12-07 at 02 50 33](https://github.com/Nagaraju0323/Stopwatch-app/assets/97865302/1a38929a-bdac-4232-8d1e-f7b146292b9a)
+
+
+
+![Simulator Screenshot - iPhone 15 Plus - 2023-12-07 at 02 50 43](https://github.com/Nagaraju0323/Stopwatch-app/assets/97865302/d59987a0-3dcf-443a-b162-6c977e7aea90)
+
+
 Overview
 
 I developed a custom stopwatch application using SwiftUI, providing a user-friendly and visually appealing interface. The stopwatch allows users to start, stop, and reset the timer, displaying accurate elapsed time.
