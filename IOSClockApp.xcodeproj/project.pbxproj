@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E679257C2B223D0400ECEBF7 /* DigitalWatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = E679257B2B223D0400ECEBF7 /* DigitalWatch.swift */; };
+		E679257E2B22480100ECEBF7 /* HomeTabview.swift in Sources */ = {isa = PBXBuildFile; fileRef = E679257D2B22480100ECEBF7 /* HomeTabview.swift */; };
 		E679D6132B208F6700A47AC5 /* IOSClockAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E679D6122B208F6700A47AC5 /* IOSClockAppApp.swift */; };
 		E679D6152B208F6700A47AC5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E679D6142B208F6700A47AC5 /* ContentView.swift */; };
 		E679D6172B208F6A00A47AC5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E679D6162B208F6A00A47AC5 /* Assets.xcassets */; };
@@ -45,6 +47,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E679257B2B223D0400ECEBF7 /* DigitalWatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DigitalWatch.swift; sourceTree = "<group>"; };
+		E679257D2B22480100ECEBF7 /* HomeTabview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTabview.swift; sourceTree = "<group>"; };
 		E679D60F2B208F6700A47AC5 /* IOSClockApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IOSClockApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E679D6122B208F6700A47AC5 /* IOSClockAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOSClockAppApp.swift; sourceTree = "<group>"; };
 		E679D6142B208F6700A47AC5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -94,6 +98,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E679257F2B22503C00ECEBF7 /* Digital */ = {
+			isa = PBXGroup;
+			children = (
+				E679257B2B223D0400ECEBF7 /* DigitalWatch.swift */,
+			);
+			path = Digital;
+			sourceTree = "<group>";
+		};
 		E679D6062B208F6700A47AC5 = {
 			isa = PBXGroup;
 			children = (
@@ -118,6 +130,7 @@
 			isa = PBXGroup;
 			children = (
 				E679D6542B20F2B000A47AC5 /* Info.plist */,
+				E679257F2B22503C00ECEBF7 /* Digital */,
 				E679D63C2B208F7A00A47AC5 /* App */,
 				E679D6582B21143000A47AC5 /* Styles */,
 				E679D63E2B2090E000A47AC5 /* Extensions */,
@@ -160,6 +173,7 @@
 			isa = PBXGroup;
 			children = (
 				E679D6122B208F6700A47AC5 /* IOSClockAppApp.swift */,
+				E679257D2B22480100ECEBF7 /* HomeTabview.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -350,8 +364,10 @@
 			files = (
 				E679D6152B208F6700A47AC5 /* ContentView.swift in Sources */,
 				E679D6422B2091AA00A47AC5 /* ClockView.swift in Sources */,
+				E679257C2B223D0400ECEBF7 /* DigitalWatch.swift in Sources */,
 				E679D64C2B20CFDE00A47AC5 /* NidleView.swift in Sources */,
 				E679D6482B20A73D00A47AC5 /* FontExtension.swift in Sources */,
+				E679257E2B22480100ECEBF7 /* HomeTabview.swift in Sources */,
 				E679D6572B20FBF300A47AC5 /* LeftButtonType.swift in Sources */,
 				E679D6132B208F6700A47AC5 /* IOSClockAppApp.swift in Sources */,
 				E679D6462B20A51100A47AC5 /* NumbersView.swift in Sources */,
